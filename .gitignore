@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+# Local environments and generated output
+backend/.venv/
+backend/venv/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+__pycache__/
+.pytest_cache/
+frontend/.git-local-backup/

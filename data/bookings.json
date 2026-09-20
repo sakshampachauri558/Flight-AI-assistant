@@ -1,0 +1,38 @@
+[
+  {
+    "booking_reference": "SK4821X",
+    "customer_name": "Priya Nair",
+    "flight": "SK-204",
+    "route": "Delhi \u2192 Goa",
+    "date": "2026-09-23",
+    "scheduled_departure": "18:40",
+    "status": "Cancelled",
+    "reason": "Operational reasons",
+    "return_flight": {
+      "route": "Goa \u2192 Delhi",
+      "date": "2026-09-25",
+      "departure": "16:20",
+      "status": "Unaffected"
+    }
+  },
+  {
+    "booking_reference": "TR1190B",
+    "customer_name": "Arvind Kulkarni",
+    "flight": "SK-118",
+    "route": "Mumbai \u2192 Bengaluru",
+    "date": "2026-09-23",
+    "scheduled_departure": "07:10",
+    "status": "Delayed 4 hours",
+    "new_departure": "11:10"
+  },
+  {
+    "booking_reference": "WL7742",
+    "customer_name": "Meher Kaur",
+    "flight": "SK-305",
+    "route": "Delhi \u2192 Hyderabad",
+    "date": "2026-09-23",
+    "scheduled_departure": "14:00",
+    "status": "Delayed 6 hours",
+    "new_departure": "20:00"
+  }
+]
