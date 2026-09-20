@@ -1,0 +1,13 @@
+{
+  "name": "airline-resolution-agent",
+  "private": true,
+  "scripts": {
+    "dev": "cd frontend && next dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd frontend && npm run start",
+    "lint": "cd frontend && npm run lint"
+  },
+  "dependencies": {
+    "next": "16.3.5"
+  }
+}
